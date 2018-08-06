@@ -8,4 +8,4 @@ fav_artist = "Chance"
   puts "I love #{fav_place}!"
   puts "I Love #{fav_artist}"
 end
-
+my_fav_things
